@@ -1,0 +1,19 @@
+body { height: 100%;
+	background-color: pink; }
+.navbar { background-color: #ef9797; }
+.container-fluid { border: 1px solid black; height: 900px;}
+.col-lg { height: 500px;
+	padding: 1px 0px 1px 0px; 
+	border: 1px solid red;
+	font-size: 14px;
+	}
+div.col-lg:hover { border: 3px solid blue; }
+.fitext { font-size: 30px;
+		text-shadow: 0 0 5px #FF0000; }
+.jptext { font-size: 19px;
+	text-shadow: 0 0 3px #FF0000;}
+.chtext { font-size: 19px;
+text-shadow: 0 0 3px #FF0000; }
+#suomikuva { width: 75%; height: 100%}
+#japanikuva { width: 75%; height: 100%}
+#kiinakuva { width: 75%; height: 100%}
